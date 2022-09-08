@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "mercado LIEBRE crud clone]",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run -test <script>"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/botechiaeri/mercadoLIEBREClone.git"
+  },
+  "author": "botechiaEri <botechiaeri@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/botechiaeri/mercadoLIEBREClone/issues"
+  },
+  "homepage": "https://github.com/botechiaeri/mercadoLIEBREClone#readme"
+}
