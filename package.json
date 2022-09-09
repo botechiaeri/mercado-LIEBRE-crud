@@ -4,7 +4,9 @@
   "description": "mercado LIEBRE crud clone]",
   "main": "app.js",
   "scripts": {
-    "test": "npm run -test <script>"
+    "test": "npm run -test <script>",
+    "start": "node myApp/bin/www",
+    "dev": "nodemon  myApp/bin/www"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/botechiaeri/mercadoLIEBREClone/issues"
   },
-  "homepage": "https://github.com/botechiaeri/mercadoLIEBREClone#readme"
+  "homepage": "https://github.com/botechiaeri/mercadoLIEBREClone#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
